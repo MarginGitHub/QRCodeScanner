@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScannerView">
+        <attr name="markColor" format="color"/>
+        <attr name="cornerColor" format="color"/>
+        <attr name="cornerHeight" format="dimension|reference"/>
+        <attr name="cornerWidth" format="dimension|reference"/>
+        <attr name="topOffset" format="dimension"/>
+    </declare-styleable>
+</resources>
